@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
- 
-REXXSTEM
-/
-UFoVC
-forked from SuSaleM/UFoVC
-0
-03
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-UFoVC/handlers/start.py /
 
-SuSaleM يــوفــو
-Latest commit b74e4fd 3 days ago
- History
- 1 contributor
-192 lines (176 sloc)  7.82 KB
- 
 #سالِم
 from time import time
 from datetime import datetime
@@ -216,16 +188,3 @@ async def get_uptime(client: Client, message: Message):
         f"➤ **ᴜᴘᴛɪᴍᴇ:** `{uptime}`\n"
         f"➤ **sᴛᴀʀᴛ ᴛɪᴍᴇ:** `{START_TIME_ISO}`"
     )
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
