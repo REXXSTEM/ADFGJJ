@@ -84,7 +84,7 @@ async def start_(client: Client, message: Message):
                         "⌯ قناة البوت", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "⌯ قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}")               
+                        "⌯ قناة السورس", url=f"https://t.me/QQOQQD")               
                  ],[
                     InlineKeyboardButton(
                         "⌯ المطور", url="https://t.me/{UPDATES_CHANNEL}"
